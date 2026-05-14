@@ -59,7 +59,7 @@ rsa-crt-pacd-attack/
 ├── docs/
 │   └── pacd_attack_report.pdf    # LaTeX report — methodology, results, analysis
 ├── src/
-│   └── pacd_attack.ipynb         # SageMath notebook — all 6 attack cells
+│   └── rsa_crt_pacd.ipynb         # SageMath notebook — all 6 attack cells
 ├── LICENSE
 └── README.md
 ```
